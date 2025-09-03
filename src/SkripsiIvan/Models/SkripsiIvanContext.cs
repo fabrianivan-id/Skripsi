@@ -19,7 +19,7 @@ namespace SkripsiIvan.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
         #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-LOBU0OS;Initial Catalog=SkripsiIvan;Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-S4JTTFJ;Initial Catalog=SkripsiIvan;Integrated Security=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "src\\SkripsiIvan\\Models\\SkripsiIvanContext.cs",
               "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Models\\SkripsiIvanContext.cs",
               "RelativeToolTip": "src\\SkripsiIvan\\Models\\SkripsiIvanContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAywBUAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4vxcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T08:41:17.801Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "src\\SkripsiIvan\\web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-03T08:40:59.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T08:40:59.575Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\SkripsiIvan.csproj",
               "RelativeToolTip": "src\\SkripsiIvan\\SkripsiIvan.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-03T08:40:25.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T08:40:25.103Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "src\\SkripsiIvan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADaOgAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-03T08:37:08.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T08:37:08.023Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "src\\SkripsiIvan\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-03T08:36:50.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T08:36:50.374Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "src\\SkripsiIvan\\Startup.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAAwFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T08:25:52.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T08:25:52.303Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "src\\SkripsiIvan\\SkripsiIvan.csproj",
               "ViewState": "AgIAAAUAAAAAAAAAAAAwwCEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-03T08:05:48.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T08:05:48.426Z"
             }
           ]
         }
