@@ -526,12 +526,15 @@ namespace SkripsiIvan.Controllers
                 return Json(_context.Gejala.Where(x => x.ParentId == id && x.KategoriId == kat).Select(x => string.Format("<li class=\"list-group-item\"><label><input type=\"checkbox\" value=\"{0}\" />{1}</label></li>", x.IdGejala, x.NamaGejala)).ToList());
         }
         [AllowAnonymous]
-        public IActionResult GetGejalaTree1(int id, int kat)
+        public async Task<IActionResult> GetGejalaTree1Async(int id, int kat)
         {
             if (id == 0)
                 return Json(_context.Gejala.Where(x => x.ParentId == id && x.KategoriId == kat).Select(x => new { id = x.IdGejala, interval = x.Interval.Value, min = x.Min.Value, max = x.Max.Value, gambar = x.GambarGejala, nama = x.NamaGejala, child = _context.Gejala.Any(y => y.ParentId == x.IdGejala) }).OrderBy(x => x.nama).ToList());
             else
-                return Json(_context.Gejala.Where(x => x.ParentId == id && x.KategoriId == kat).Select(x => string.Format("<li class=\"list-group-item\"><label><input type=\"checkbox\"  value=\"{0}\" />{1}</label><div style=\"display:none\"><br /><b>{5}</b> <input type=\"text\" data-id=\"{2}\" class=\"span2\" value=\"\" data-slider-min=\"{3}\" data-slider-max=\"{4}\" data-slider-step=\"0.01\" data-slider-value=\"{2}\" /> <b>{6}</b></div></li>", x.IdGejala, x.NamaGejala, x.Interval.Value, x.Min.Value, x.Max.Value, t(x.Min.Value), t(x.Max.Value))).ToList());
+                return Ok(await _context.Gejala
+                    .Where(x => x.ParentId == id && x.KategoriId == kat)
+                    .Select(x => $"<li class=\"list-group-item\"><label><input type=\"checkbox\"  value=\"{x.IdGejala}\" />{x.NamaGejala}</label><div style=\"display:none\"><br /><b>{x.Min.Value}</b> <input type=\"text\" data-id=\"{x.Interval.Value}\" class=\"span2\" value=\"\" data-slider-min=\"{x.Min.Value}\" data-slider-max=\"{x.Max.Value}\" data-slider-step=\"0.01\" data-slider-value=\"{x.Interval.Value}\" /> <b>{x.Max.Value}</b></div></li>")
+                    .ToListAsync());
         }
         public string t(double a) {
             switch (a.ToString()){

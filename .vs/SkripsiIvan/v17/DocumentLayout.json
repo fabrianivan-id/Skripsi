@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Skripsi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|c:\\users\\user\\skripsi\\src\\skripsiivan\\models\\skripsiivancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|solutionrelative:src\\skripsiivan\\models\\skripsiivancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|c:\\users\\user\\skripsi\\src\\skripsiivan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|solutionrelative:src\\skripsiivan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|c:\\users\\user\\skripsi\\src\\skripsiivan\\skripsiivan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|solutionrelative:src\\skripsiivan\\skripsiivan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|c:\\users\\user\\skripsi\\src\\skripsiivan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|solutionrelative:src\\skripsiivan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|c:\\users\\user\\skripsi\\src\\skripsiivan\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|solutionrelative:src\\skripsiivan\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|c:\\users\\user\\skripsi\\src\\skripsiivan\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|solutionrelative:src\\skripsiivan\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|c:\\users\\user\\skripsi\\src\\skripsiivan\\skripsiivan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|solutionrelative:src\\skripsiivan\\skripsiivan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|c:\\users\\user\\skripsi\\src\\skripsiivan\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005574A2-3B64-4C62-B83C-38AB7750A946}|src\\SkripsiIvan\\SkripsiIvan.csproj|solutionrelative:src\\skripsiivan\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkripsiIvanContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Models\\SkripsiIvanContext.cs",
+              "RelativeDocumentMoniker": "src\\SkripsiIvan\\Models\\SkripsiIvanContext.cs",
+              "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Models\\SkripsiIvanContext.cs",
+              "RelativeToolTip": "src\\SkripsiIvan\\Models\\SkripsiIvanContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAywBUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T08:41:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\web.config",
+              "RelativeDocumentMoniker": "src\\SkripsiIvan\\web.config",
+              "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\web.config",
+              "RelativeToolTip": "src\\SkripsiIvan\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-03T08:40:59.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkripsiIvan",
+              "DocumentMoniker": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\SkripsiIvan.csproj",
+              "RelativeDocumentMoniker": "src\\SkripsiIvan\\SkripsiIvan.csproj",
+              "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\SkripsiIvan.csproj",
+              "RelativeToolTip": "src\\SkripsiIvan\\SkripsiIvan.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T08:40:25.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.bundle.js.map",
+              "DocumentMoniker": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeDocumentMoniker": "src\\SkripsiIvan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeToolTip": "src\\SkripsiIvan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADaOgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-03T08:37:08.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\SkripsiIvan\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\SkripsiIvan\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T08:36:50.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\SkripsiIvan\\Startup.cs",
+              "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Startup.cs",
+              "RelativeToolTip": "src\\SkripsiIvan\\Startup.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T08:25:52.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "src\\SkripsiIvan\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "src\\SkripsiIvan\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAJsCAAAAAAAAAAAAABkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T08:18:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkripsiIvan.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\SkripsiIvan.csproj",
+              "RelativeDocumentMoniker": "src\\SkripsiIvan\\SkripsiIvan.csproj",
+              "ToolTip": "C:\\Users\\user\\Skripsi\\src\\SkripsiIvan\\SkripsiIvan.csproj",
+              "RelativeToolTip": "src\\SkripsiIvan\\SkripsiIvan.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T08:05:48.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
